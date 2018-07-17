@@ -1,0 +1,1219 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_physics (-720.00 4.00 92.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8329 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 19
+Reduced 9 texdatas to 9 (192 bytes to 192)
+Writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+LoadPortals: couldn't read c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+No vis information, direct lighting only.
+95 faces
+3900 square feet [561636.56 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 22/8192          264/98304    ( 0.3%) 
+brushsides             141/65536        1128/524288   ( 0.2%) 
+planes                 128/65536        2560/1310720  ( 0.2%) 
+vertexes               194/65536        2328/786432   ( 0.3%) 
+nodes                  121/65536        3872/2097152  ( 0.2%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   95/65536        5320/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               48/65536        2688/3670016  ( 0.1%) 
+leaves                 123/65536        3936/2097152  ( 0.2%) 
+leaffaces               98/65536         196/131072   ( 0.1%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              627/512000       2508/2048000  ( 0.1%) 
+edges                  392/256000       1568/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       45968/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        8832/393216   ( 2.2%) 
+LDR ambient table      123/65536         492/262144   ( 0.2%) 
+HDR ambient table      123/65536         492/262144   ( 0.2%) 
+LDR leaf ambient        80/65536        2240/1835008  ( 0.1%) 
+HDR leaf ambient       123/65536        3444/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]        8329/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 243
+Writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_physics (-720.00 4.00 92.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10344 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 29 texinfos to 21
+Reduced 10 texdatas to 10 (219 bytes to 219)
+Writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+LoadPortals: couldn't read c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+No vis information, direct lighting only.
+100 faces
+3892 square feet [560508.56 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 28/8192          336/98304    ( 0.3%) 
+brushsides             177/65536        1416/524288   ( 0.3%) 
+planes                 134/65536        2680/1310720  ( 0.2%) 
+vertexes               214/65536        2568/786432   ( 0.3%) 
+nodes                  140/65536        4480/2097152  ( 0.2%) 
+texinfos                21/12288        1512/884736   ( 0.2%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  100/65536        5600/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               52/65536        2912/3670016  ( 0.1%) 
+leaves                 142/65536        4544/2097152  ( 0.2%) 
+leaffaces              104/65536         208/131072   ( 0.2%) 
+leafbrushes             57/65536         114/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              666/512000       2664/2048000  ( 0.1%) 
+edges                  420/256000       1680/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            66/65536         132/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       46108/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9215/393216   ( 2.3%) 
+LDR ambient table      142/65536         568/262144   ( 0.2%) 
+HDR ambient table      142/65536         568/262144   ( 0.2%) 
+LDR leaf ambient        91/65536        2548/1835008  ( 0.1%) 
+HDR leaf ambient       142/65536        3976/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/208      ( 0.5%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]       10344/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 256
+Writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/small_house2/nature/blendrockdirt002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_physics (-600.00 -49.00 158.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26404 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 84
+Reduced 17 texdatas to 16 (407 bytes to 382)
+Writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+LoadPortals: couldn't read c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+No vis information, direct lighting only.
+296 faces
+8865 square feet [1276618.38 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 74/8192          888/98304    ( 0.9%) 
+brushsides             538/65536        4304/524288   ( 0.8%) 
+planes                 446/65536        8920/1310720  ( 0.7%) 
+vertexes               612/65536        7344/786432   ( 0.9%) 
+nodes                  269/65536        8608/2097152  ( 0.4%) 
+texinfos                84/12288        6048/884736   ( 0.7%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  296/65536       16576/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              199/65536       11144/3670016  ( 0.3%) 
+leaves                 271/65536        8672/2097152  ( 0.4%) 
+leaffaces              341/65536         682/131072   ( 0.5%) 
+leafbrushes            120/65536         240/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2230/512000       8920/2048000  ( 0.4%) 
+edges                 1369/256000       5476/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             36/32768         360/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           603/65536        1206/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      103636/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       20231/393216   ( 5.1%) 
+LDR ambient table      271/65536        1084/262144   ( 0.4%) 
+HDR ambient table      271/65536        1084/262144   ( 0.4%) 
+LDR leaf ambient       166/65536        4648/1835008  ( 0.3%) 
+HDR leaf ambient       271/65536        7588/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]      106107/0        ( 0.0%) 
+physics               [variable]       26404/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 840
+Writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/small_house2/nature/blendrockdirt002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30210 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 142 texinfos to 89
+Reduced 19 texdatas to 18 (449 bytes to 424)
+Writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+ 156 portalclusters
+ 476 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 66 visible clusters (0.53%)
+Total clusters visible: 12368
+Average clusters visible: 79
+Building PAS...
+Average clusters audible: 155
+visdatasize:7514  compressed from 7488
+writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+319 faces
+41255 square feet [5940747.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+319 patches before subdivision
+1517 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 61322, max 166
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0003 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 85/8192         1020/98304    ( 1.0%) 
+brushsides             604/65536        4832/524288   ( 0.9%) 
+planes                 478/65536        9560/1310720  ( 0.7%) 
+vertexes               709/65536        8508/786432   ( 1.1%) 
+nodes                  315/65536       10080/2097152  ( 0.5%) 
+texinfos                89/12288        6408/884736   ( 0.7%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  319/65536       17864/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              205/65536       11480/3670016  ( 0.3%) 
+leaves                 317/65536       10144/2097152  ( 0.5%) 
+leaffaces              375/65536         750/131072   ( 0.6%) 
+leafbrushes            175/65536         350/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2360/512000       9440/2048000  ( 0.5%) 
+edges                 1438/256000       5752/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             35/32768         350/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           585/65536        1170/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      106876/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        7514/16777216 ( 0.0%) 
+entdata               [variable]       20231/393216   ( 5.1%) 
+LDR ambient table      317/65536        1268/262144   ( 0.5%) 
+HDR ambient table      317/65536        1268/262144   ( 0.5%) 
+LDR leaf ambient       156/65536        4368/1835008  ( 0.2%) 
+HDR leaf ambient       317/65536        8876/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/208      ( 0.5%) 
+pakfile               [variable]      106107/0        ( 0.0%) 
+physics               [variable]       30210/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 898
+Writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/small_house2/nature/blendrockdirt002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31714 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 147 texinfos to 91
+Reduced 19 texdatas to 18 (449 bytes to 424)
+Writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+ 162 portalclusters
+ 448 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 58 visible clusters (0.47%)
+Total clusters visible: 12416
+Average clusters visible: 76
+Building PAS...
+Average clusters audible: 160
+visdatasize:8288  compressed from 7776
+writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+341 faces
+25143 square feet [3620699.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+341 patches before subdivision
+1649 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 62851, max 176
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0004 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 89/8192         1068/98304    ( 1.1%) 
+brushsides             628/65536        5024/524288   ( 1.0%) 
+planes                 486/65536        9720/1310720  ( 0.7%) 
+vertexes               769/65536        9228/786432   ( 1.2%) 
+nodes                  333/65536       10656/2097152  ( 0.5%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  341/65536       19096/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              209/65536       11704/3670016  ( 0.3%) 
+leaves                 335/65536       10720/2097152  ( 0.5%) 
+leaffaces              424/65536         848/131072   ( 0.6%) 
+leafbrushes            191/65536         382/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2494/512000       9976/2048000  ( 0.5%) 
+edges                 1527/256000       6108/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             34/32768         340/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           603/65536        1206/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      112088/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8288/16777216 ( 0.0%) 
+entdata               [variable]       20232/393216   ( 5.1%) 
+LDR ambient table      335/65536        1340/262144   ( 0.5%) 
+HDR ambient table      335/65536        1340/262144   ( 0.5%) 
+LDR leaf ambient       162/65536        4536/1835008  ( 0.2%) 
+HDR leaf ambient       335/65536        9380/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/208      ( 0.5%) 
+pakfile               [variable]      106107/0        ( 0.0%) 
+physics               [variable]       31714/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 972
+Writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/small_house2/nature/blendrockdirt002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32010 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 151 texinfos to 93
+Reduced 19 texdatas to 18 (449 bytes to 424)
+Writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+ 163 portalclusters
+ 457 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 56 visible clusters (0.44%)
+Total clusters visible: 12741
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 160
+visdatasize:8310  compressed from 7824
+writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+343 faces
+25186 square feet [3626808.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+343 patches before subdivision
+1663 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 62608, max 175
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0004 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 90/8192         1080/98304    ( 1.1%) 
+brushsides             640/65536        5120/524288   ( 1.0%) 
+planes                 494/65536        9880/1310720  ( 0.8%) 
+vertexes               755/65536        9060/786432   ( 1.2%) 
+nodes                  333/65536       10656/2097152  ( 0.5%) 
+texinfos                93/12288        6696/884736   ( 0.8%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  343/65536       19208/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              210/65536       11760/3670016  ( 0.3%) 
+leaves                 335/65536       10720/2097152  ( 0.5%) 
+leaffaces              423/65536         846/131072   ( 0.6%) 
+leafbrushes            192/65536         384/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2503/512000      10012/2048000  ( 0.5%) 
+edges                 1520/256000       6080/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             33/32768         330/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           567/65536        1134/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      112844/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8310/16777216 ( 0.0%) 
+entdata               [variable]       20232/393216   ( 5.1%) 
+LDR ambient table      335/65536        1340/262144   ( 0.5%) 
+HDR ambient table      335/65536        1340/262144   ( 0.5%) 
+LDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+HDR leaf ambient       335/65536        9380/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/208      ( 0.5%) 
+pakfile               [variable]      106107/0        ( 0.0%) 
+physics               [variable]       32010/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 973
+Writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/small_house2/nature/blendrockdirt002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32042 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 151 texinfos to 93
+Reduced 19 texdatas to 18 (449 bytes to 424)
+Writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+ 167 portalclusters
+ 468 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 109 visible clusters (0.84%)
+Total clusters visible: 12996
+Average clusters visible: 77
+Building PAS...
+Average clusters audible: 165
+visdatasize:8493  compressed from 8016
+writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+349 faces
+30973 square feet [4460220.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+349 patches before subdivision
+1825 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 63739, max 177
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0004 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 90/8192         1080/98304    ( 1.1%) 
+brushsides             640/65536        5120/524288   ( 1.0%) 
+planes                 498/65536        9960/1310720  ( 0.8%) 
+vertexes               787/65536        9444/786432   ( 1.2%) 
+nodes                  344/65536       11008/2097152  ( 0.5%) 
+texinfos                93/12288        6696/884736   ( 0.8%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  349/65536       19544/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              210/65536       11760/3670016  ( 0.3%) 
+leaves                 346/65536       11072/2097152  ( 0.5%) 
+leaffaces              433/65536         866/131072   ( 0.7%) 
+leafbrushes            201/65536         402/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2554/512000      10216/2048000  ( 0.5%) 
+edges                 1554/256000       6216/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             37/32768         370/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           612/65536        1224/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      118536/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8493/16777216 ( 0.1%) 
+entdata               [variable]       20232/393216   ( 5.1%) 
+LDR ambient table      346/65536        1384/262144   ( 0.5%) 
+HDR ambient table      346/65536        1384/262144   ( 0.5%) 
+LDR leaf ambient       167/65536        4676/1835008  ( 0.3%) 
+HDR leaf ambient       346/65536        9688/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/208      ( 0.5%) 
+pakfile               [variable]      106107/0        ( 0.0%) 
+physics               [variable]       32042/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1012
+Writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/small_house2/nature/blendrockdirt002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32754 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 173 texinfos to 106
+Reduced 22 texdatas to 20 (561 bytes to 488)
+Writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+ 163 portalclusters
+ 466 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 84 visible clusters (0.63%)
+Total clusters visible: 13267
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 161
+visdatasize:7999  compressed from 7824
+writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+372 faces
+31702 square feet [4565220.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+372 patches before subdivision
+2030 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 69048, max 178
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0004 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 97/8192         1164/98304    ( 1.2%) 
+brushsides             695/65536        5560/524288   ( 1.1%) 
+planes                 546/65536       10920/1310720  ( 0.8%) 
+vertexes               787/65536        9444/786432   ( 1.2%) 
+nodes                  336/65536       10752/2097152  ( 0.5%) 
+texinfos               106/12288        7632/884736   ( 0.9%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  372/65536       20832/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              231/65536       12936/3670016  ( 0.4%) 
+leaves                 338/65536       10816/2097152  ( 0.5%) 
+leaffaces              462/65536         924/131072   ( 0.7%) 
+leafbrushes            201/65536         402/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2725/512000      10900/2048000  ( 0.5%) 
+edges                 1646/256000       6584/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             27/32768         270/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           453/65536         906/131072   ( 0.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      143076/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        7999/16777216 ( 0.0%) 
+entdata               [variable]       22944/393216   ( 5.8%) 
+LDR ambient table      338/65536        1352/262144   ( 0.5%) 
+HDR ambient table      338/65536        1352/262144   ( 0.5%) 
+LDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+HDR leaf ambient       338/65536        9464/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/402      ( 0.2%) 
+pakfile               [variable]      212066/0        ( 0.0%) 
+physics               [variable]       32754/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1050
+Writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/small_house2/nature/blendrockdirt002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34506 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 173 texinfos to 109
+Reduced 22 texdatas to 20 (561 bytes to 488)
+Writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+ 181 portalclusters
+ 541 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 87 visible clusters (0.56%)
+Total clusters visible: 15432
+Average clusters visible: 85
+Building PAS...
+Average clusters audible: 178
+visdatasize:9712  compressed from 8688
+writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+417 faces
+32672 square feet [4704867.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+417 patches before subdivision
+2197 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 83467, max 197
+transfer lists:   0.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0005 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 97/8192         1164/98304    ( 1.2%) 
+brushsides             695/65536        5560/524288   ( 1.1%) 
+planes                 556/65536       11120/1310720  ( 0.8%) 
+vertexes               886/65536       10632/786432   ( 1.4%) 
+nodes                  379/65536       12128/2097152  ( 0.6%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  417/65536       23352/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+leaves                 381/65536       12192/2097152  ( 0.6%) 
+leaffaces              499/65536         998/131072   ( 0.8%) 
+leafbrushes            242/65536         484/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2978/512000      11912/2048000  ( 0.6%) 
+edges                 1788/256000       7152/1024000  ( 0.7%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/32768         380/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           618/65536        1236/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      151840/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9712/16777216 ( 0.1%) 
+entdata               [variable]       22938/393216   ( 5.8%) 
+LDR ambient table      381/65536        1524/262144   ( 0.6%) 
+HDR ambient table      381/65536        1524/262144   ( 0.6%) 
+LDR leaf ambient       181/65536        5068/1835008  ( 0.3%) 
+HDR leaf ambient       381/65536       10668/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/402      ( 0.2%) 
+pakfile               [variable]      212066/0        ( 0.0%) 
+physics               [variable]       34506/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1189
+Writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/small_house2/nature/blendrockdirt002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34506 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 173 texinfos to 109
+Reduced 22 texdatas to 20 (561 bytes to 488)
+Writing C:\Users\iD Student\Desktop\Reece B\Hammer Maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+reading c:\users\id student\desktop\reece b\hammer maps\Small_House2.prt
+ 181 portalclusters
+ 541 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 87 visible clusters (0.56%)
+Total clusters visible: 15432
+Average clusters visible: 85
+Building PAS...
+Average clusters audible: 178
+visdatasize:9712  compressed from 8688
+writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+417 faces
+32672 square feet [4704867.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+417 patches before subdivision
+2197 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 83467, max 197
+transfer lists:   0.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0005 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 97/8192         1164/98304    ( 1.2%) 
+brushsides             695/65536        5560/524288   ( 1.1%) 
+planes                 556/65536       11120/1310720  ( 0.8%) 
+vertexes               886/65536       10632/786432   ( 1.4%) 
+nodes                  379/65536       12128/2097152  ( 0.6%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  417/65536       23352/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+leaves                 381/65536       12192/2097152  ( 0.6%) 
+leaffaces              499/65536         998/131072   ( 0.8%) 
+leafbrushes            242/65536         484/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2978/512000      11912/2048000  ( 0.6%) 
+edges                 1788/256000       7152/1024000  ( 0.7%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/32768         380/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           618/65536        1236/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      151840/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9712/16777216 ( 0.1%) 
+entdata               [variable]       22938/393216   ( 5.8%) 
+LDR ambient table      381/65536        1524/262144   ( 0.6%) 
+HDR ambient table      381/65536        1524/262144   ( 0.6%) 
+LDR leaf ambient       181/65536        5068/1835008  ( 0.3%) 
+HDR leaf ambient       381/65536       10668/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/402      ( 0.2%) 
+pakfile               [variable]      212066/0        ( 0.0%) 
+physics               [variable]       34506/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1189
+Writing c:\users\id student\desktop\reece b\hammer maps\Small_House2.bsp
+1 second elapsed
